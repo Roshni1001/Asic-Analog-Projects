@@ -111,6 +111,6 @@ Planned additions to this repo:
 
 If you are interested in my VLSI / ASIC work or want more details about these designs:
 
-- **GitHub**: [Roshni1001](https://github.com/your-username)
+- **GitHub**: [https://github.com/Roshni1001]
 - **Email**: [23f3000143@es.study.iitm.ac.in]
 
